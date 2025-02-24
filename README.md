@@ -1,1 +1,1 @@
-# Milj-dataanalyseapplikasjon
+# Miljoedataanalyseapplikasjon
