@@ -1,0 +1,7 @@
+# Ignore test files
+tests/
+*.test.py
+
+# Ignore API keys
+*.env
+*.apikey
