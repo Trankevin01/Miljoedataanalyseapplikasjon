@@ -1,7 +1,8 @@
 # Ignore test files
-tests/
-*.test.py
+*test.ipynb
 
 # Ignore API keys
 *.env
-*.apikey
+
+# Ignore "kilder"
+*kilder.ipynb
