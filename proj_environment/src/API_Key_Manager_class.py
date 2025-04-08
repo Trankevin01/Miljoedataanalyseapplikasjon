@@ -23,15 +23,3 @@ class APIKeyManager:
         if key_name not in self._api_keys:
             raise KeyError(f"API key for '{key_name}' not found.")
         return self._api_keys[key_name]
-
-
-# Eksempel på bruk:
-api_key_manager = APIKeyManager()
-
-# Hent Frost API-nøkkelen direkte fra klassen
-frost_api_key = api_key_manager.get_api_key("Frost")
-print(f"Frost API Key: {frost_api_key}")
-
-# Hent Opencage API-nøkkelen direkte fra klassen
-opencage_api_key = api_key_manager.get_api_key("Opencage")
-print(f"Opencage API Key: {opencage_api_key}")
