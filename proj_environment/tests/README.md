@@ -1,1 +1,1 @@
-Dette er hvor vi kjører enhetstester på klassen vår. Den sjkker at API-nøklene funker som de skal og at vi får forventet respons fra dem
+Dette er hvor vi kjører enhetstester på klassen vår. Den sjkker at API-nøklene funker som de skal og at vi får forventet respons fra dem.
