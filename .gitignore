@@ -1,5 +1,6 @@
 # Ignore test files
 *test.ipynb
+*test.py
 
 # Ignore API keys
 *API_Key_Manager_class.py
