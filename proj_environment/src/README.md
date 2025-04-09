@@ -1,1 +1,2 @@
-Explains the source code structure
+I src mappen har vi lagret API nøklene som vi henter gjennom en klasse.
+Ved å lagre API nøklene her slipper vi at API nøklene her tilgjenglige for alle som har tilgeng til Frost Datasett.ipynb og kan beholde tilkoblingen som en sikker tilkobling. 
