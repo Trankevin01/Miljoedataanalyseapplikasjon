@@ -2,7 +2,7 @@
 *test.ipynb
 
 # Ignore API keys
-*.env
+*API_Key_Manager_class.py
 
 # Ignore "kilder"
 *kilder.ipynb
