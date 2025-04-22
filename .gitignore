@@ -5,5 +5,10 @@
 # Ignore API keys
 *API_Key_Manager_class.py
 
-# Ignore "kilder"
-*kilder.ipynb
+# Ignore data
+*data.csv
+
+
+
+
+
