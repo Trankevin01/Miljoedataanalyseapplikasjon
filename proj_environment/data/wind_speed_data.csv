@@ -1,5 +1,4 @@
 elementId,value,unit,timeOffset,referenceTime,sourceId
-mean(wind_speed P1D),1.2,m/s,PT0H,2018-04-23 00:00:00+00:00,SN90450:0
 mean(wind_speed P1D),1.2,m/s,PT0H,2018-04-24 00:00:00+00:00,SN90450:0
 mean(wind_speed P1D),1.7,m/s,PT0H,2018-04-25 00:00:00+00:00,SN90450:0
 mean(wind_speed P1D),2.8,m/s,PT0H,2018-04-26 00:00:00+00:00,SN90450:0
@@ -2554,3 +2553,4 @@ mean(wind_speed P1D),2.3,m/s,PT0H,2025-04-17 00:00:00+00:00,SN90450:0
 mean(wind_speed P1D),2.7,m/s,PT0H,2025-04-18 00:00:00+00:00,SN90450:0
 mean(wind_speed P1D),3.6,m/s,PT0H,2025-04-19 00:00:00+00:00,SN90450:0
 mean(wind_speed P1D),2.5,m/s,PT0H,2025-04-20 00:00:00+00:00,SN90450:0
+mean(wind_speed P1D),2.2,m/s,PT0H,2025-04-21 00:00:00+00:00,SN90450:0

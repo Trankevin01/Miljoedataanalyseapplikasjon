@@ -1,6 +1,4 @@
 elementId,value,unit,timeOffset,referenceTime,sourceId
-sum(precipitation_amount P1D),0.0,mm,PT18H,2018-04-23 18:00:00+00:00,SN90450:0
-sum(precipitation_amount P1D),0.0,mm,PT6H,2018-04-23 06:00:00+00:00,SN90450:0
 sum(precipitation_amount P1D),2.6,mm,PT18H,2018-04-24 18:00:00+00:00,SN90450:0
 sum(precipitation_amount P1D),0.3,mm,PT6H,2018-04-24 06:00:00+00:00,SN90450:0
 sum(precipitation_amount P1D),4.8,mm,PT18H,2018-04-25 18:00:00+00:00,SN90450:0
@@ -5109,3 +5107,5 @@ sum(precipitation_amount P1D),2.8,mm,PT18H,2025-04-19 18:00:00+00:00,SN90450:0
 sum(precipitation_amount P1D),8.4,mm,PT6H,2025-04-19 06:00:00+00:00,SN90450:0
 sum(precipitation_amount P1D),6.8,mm,PT18H,2025-04-20 18:00:00+00:00,SN90450:0
 sum(precipitation_amount P1D),5.2,mm,PT6H,2025-04-20 06:00:00+00:00,SN90450:0
+sum(precipitation_amount P1D),1.4,mm,PT18H,2025-04-21 18:00:00+00:00,SN90450:0
+sum(precipitation_amount P1D),4.2,mm,PT6H,2025-04-21 06:00:00+00:00,SN90450:0
