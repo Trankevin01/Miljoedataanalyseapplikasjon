@@ -1,0 +1,45 @@
+Oppgave 5 visualiseringer
+
+1.	Hvilke spesifikke typer visualiseringer planlegger du å lage for å representere endringer i luftkvalitet og temperaturdata, 
+og hvorfor valgte du disse?
+
+Vi planlegger å plotte temperaturdata som linjediagram/scatterplot ettersom at dette gir en fin representasjon for hvordan været har 
+utviklet seg over tid. Vi ser også på YR og storm osv.. for inspirasjon for visualiseringene og det er en grunn til at nettopp de 
+bruker linje/scatter. Med luftkvalitet tenker vi å bruke et kart over stedet med gradient for ulike verdier.
+
+2.	Hvordan kan Matplotlib og Seaborn brukes til å forbedre forståelsen av de analyserte dataene, og hvilke funksjoner i disse 
+bibliotekene vil være mest nyttige?
+
+Matplotlib og Seaborn er kraftige verktøy for datavisualisering som kan forbedre forståelsen av analyserte data ved å presentere 
+dem på en visuelt intuitiv måte. Matplotlib tilbyr grunnleggende funksjoner som linjediagrammer, scatterplots og stolpediagrammer, 
+samt tilpasningsmuligheter som akseetiketter, titler og legender. Seaborn bygger videre på dette med mer avanserte visualiseringer 
+som heatmaps, boxplots og lineplots med automatisk håndtering av usikkerhet. Vi bruker mest Matplotlib og plotly.
+
+Viktige funksjoner:
+
+plt.figure(figsize=())
+plt.scatter()
+plt.plot()
+plt.title()
+plt.xlabel()
+plt.ylabel()
+plt.legend()
+plt.show()
+
+sns.lineplot(): 
+sns.heatmap(): 
+sns.boxplot(): 
+sns.set_style():
+sns.pairplot(): 
+
+
+
+3.	Hvordan vil du håndtere og visualisere manglende data i grafene dine for å sikre at de fortsatt er informative?
+
+Vi velger å ikke 
+
+4.	Kan du beskrive prosessen for å lage interaktive visualiseringer med Widgets, Plotly eller Bokeh, og hvilke fordeler 
+dette kan gi i forhold til statiske visualiseringer?
+
+5.	Hvordan vil du evaluere effektiviteten av visualiseringene dine i å formidle de viktigste funnene fra dataanalysen 
+til et bredere publikum?
