@@ -36,10 +36,19 @@ sns.pairplot():
 
 3.	Hvordan vil du håndtere og visualisere manglende data i grafene dine for å sikre at de fortsatt er informative?
 
-Vi velger å ikke 
+Vi velger 
 
 4.	Kan du beskrive prosessen for å lage interaktive visualiseringer med Widgets, Plotly eller Bokeh, og hvilke fordeler 
 dette kan gi i forhold til statiske visualiseringer?
 
+I Plotly kan man bruke funksjoner som plotly.express for å lage interaktive grafer med zoom, pan og hover-effekter. 
+Bokeh tilbyr mer avanserte muligheter som tilpassede verktøy og interaktive widgets som sliders og dropdown-menyer for å filtrere data.
+Widgets i Jupyter Notebook kan kombineres med begge for å lage dynamiske dashboards. Fordelene med interaktive visualiseringer 
+inkluderer bedre brukerengasjement, muligheten til å utforske data i sanntid, og en mer intuitiv forståelse av komplekse datasett
+sammenlignet med statiske visualiseringer.
+
 5.	Hvordan vil du evaluere effektiviteten av visualiseringene dine i å formidle de viktigste funnene fra dataanalysen 
 til et bredere publikum?
+
+Visualiseringene våre er fine og ryddige med tydelige titler, aksetitler og forecaster. Ikke alle kommer til å skjønne hva som er 
+plottet
