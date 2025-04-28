@@ -36,7 +36,8 @@ sns.pairplot():
 
 3.	Hvordan vil du håndtere og visualisere manglende data i grafene dine for å sikre at de fortsatt er informative?
 
-Vi velger 
+Vi har valgt å fortsatt plotte dataen selvom det mangler store deler. Da vil man få et lite innblikk i hvordan dataen er, selvom 
+det ikke alltid vil gi helt mening. 
 
 4.	Kan du beskrive prosessen for å lage interaktive visualiseringer med Widgets, Plotly eller Bokeh, og hvilke fordeler 
 dette kan gi i forhold til statiske visualiseringer?
