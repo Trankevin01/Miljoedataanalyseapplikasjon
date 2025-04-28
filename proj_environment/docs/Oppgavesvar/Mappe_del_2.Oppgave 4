@@ -8,7 +8,7 @@ Dette er hva som gjør at man ikke jobber på magefølelse, men heller jobber me
 
 2. Kan du gi et eksempel på hvordan du vil implementere en enkel statistisk analyse for å undersøke sammenhengen mellom to variabler i datasettet?
 
-Måten vi kan vise sammenhengen mellom to variabler med en statistisk analyse er knyttet opp mot umerisk derivasjon.
+Måten vi kan vise sammenhengen mellom to variabler med en statistisk analyse er knyttet opp mot numerisk derivasjon.
 Vi kan se på endringen i verdier mellom to tidspunkt for to ulike variabler og se om disse er proporsjonale eller omvendt proporsonale og eventuelt hvordan.
 
 Med denne metoden kan enklere se om det er sammenheng mellom ting som nedbør og fuktighet eller nedbør og temperatur. Det kan også hende at det ikke er noen sammenheng, men det vil vi kunne se i analysen.
