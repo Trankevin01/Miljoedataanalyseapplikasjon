@@ -8,3 +8,5 @@ Om værstasjonen mangler noe data som vindhastighet eller nedbør, sjekker den n
 Denne dataen legger vi inn i en csv fil som vi senere bruker til å plotte dataen. 
 
 Problemet med framgangsmåten er at man av og til kan få data som ikke kommer fra samme sted, men vi har vurdert at det er nøyaktig nok til at vi bruker denne framgangsmåten.
+
+Vi lager et program som lar brukeren velge et sted i Norge og se den historiske værdataene til dette stedet. Programmet henter informasjon fra den nærmeste værstasjonen til det valgte stedet og visualiserer dataene i grafer. Programmet viser også en beregning for hvordan framtidig vær kommer til å se ut. All data er hentet fra MET som er en offentlig kilde sponset fra den norske stat
