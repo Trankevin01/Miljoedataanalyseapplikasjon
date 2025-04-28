@@ -1,2 +1,1 @@
-I src mappen har vi lagret API nøklene som vi henter gjennom en klasse.
-Ved å lagre API nøklene her slipper vi at API nøklene her tilgjenglige for alle som har tilgeng til Frost Datasett.ipynb og kan beholde tilkoblingen som en sikker tilkobling. 
+I src-mappen har vi lagret API-nøklene, som vi henter via en klasse. Ved å lagre nøklene her unngår vi at de blir direkte tilgjengelige for alle som har tilgang til Frost Datasett.ipynb, og vi kan samtidig opprettholde en sikker tilkobling.

@@ -1,6 +1,1 @@
-I data lagrer vi alle dataene vi henter knyttet til temperatur, regn, vindhastighet og luftfuktighet i csv filer.
-Dette lar oss lettere bruke dataene i senere beregninger og visualisering.
-Når vi kjører koden på nytt med andre parametere som, andre byer eller annen tidshorisont, blir dataene overskrevet og det nye settet med data blir lagret.
-På denne måten sparer vi plass og unngår eventuell problemer hvor gammel data kan brukes med uhell.
-Dette påvirker ikke datakvaliteten på noen viktige måter ettersom vi kun tar dataene som vi trenger og lagrer dem uten å modifisere dem. 
-Vi fjerner unødvendig data some TimeOffset, ettersom vi ikke bruker den, men dette påvirker ikke kvaliteten på dataene vi bruker.
+I data lagrer vi alle innhentede data knyttet til temperatur, nedbør, vindhastighet og luftfuktighet i CSV-filer. Dette gjør det enklere å bruke dataene i senere beregninger og visualiseringer. Når vi kjører koden på nytt med andre parametere, som ulike byer eller tidshorisonter, blir de eksisterende dataene overskrevet og det nye datasettet lagret. Slik sparer vi plass og unngår at gamle data ved en feil tas i bruk. Datakvaliteten påvirkes ikke vesentlig, siden vi kun lagrer nødvendige data uten å modifisere dem. Vi fjerner enkelte unødvendige elementer, som Level, men dette har ingen betydning for kvaliteten på dataene vi faktisk bruker."
