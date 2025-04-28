@@ -1,10 +1,12 @@
-2.	Kan du gi et eksempel på hvordan du vil bruke list comprehensions for å manipulere dataene?
+Oppgave 3 Databehandling 
+
+2. Kan du gi et eksempel på hvordan du vil bruke list comprehensions for å manipulere dataene?
 
 Vi har ikke brukt list comprehensions, men vi kunne også brukt detfor å fjerne data som vi mener lå utenfor mulighetsrommet. 
 eksempelvis om vi noe data mener at det var en unaturlig høy temperaturverdi som 40+ ved en vanlig vårmåned.
 
 
-3.	Hvordan kan Pandas SQL (sqldf) forbedre datamanipuleringen sammenlignet med tradisjonelle Pandas-operasjoner?
+3. Hvordan kan Pandas SQL (sqldf) forbedre datamanipuleringen sammenlignet med tradisjonelle Pandas-operasjoner?
 
 Pandas SQL (sqldf) forbedrer datamanipulering ved å la deg bruke SQL-syntaks direkte på Pandas DataFrames, 
 noe som er spesielt nyttig for de som er kjent med SQL. Det forenkler komplekse operasjoner som JOIN, GROUP BY og HAVING, 
@@ -12,7 +14,7 @@ som kan være mer kompliserte å uttrykke med tradisjonelle Pandas-metoder. Vi b
 spesielt når man jobber med flere DataFrames samtidig. Dette gjør det enklere å kombinere, filtrere og aggregere data. 
 I tillegg er sqldf nyttig for rask prototyping, da SQL-syntaks kan være raskere å skrive og justere enn lange Pandas-kjeder. 
 
-4.	Hvilke spesifikke uregelmessigheter i dataene forventer du å møte, og hvordan planlegger du å håndtere dem?
+4. Hvilke spesifikke uregelmessigheter i dataene forventer du å møte, og hvordan planlegger du å håndtere dem?
 
 Vi forventet at ikke alle værstasjoner skulle ha de dataene vi ønsket å hente ut. Vi skjekker da istedenfor nærliggende værstasjoner 
 for de manglende dataene. 

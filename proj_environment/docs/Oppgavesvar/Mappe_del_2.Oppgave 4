@@ -1,3 +1,5 @@
+Oppgave 4 Dataanalyse 
+
 1. Hvordan kan du bruke NumPy og Pandas til å beregne gjennomsnitt, median og standardavvik for de innsamlede dataene, og hvorfor er disse statistiske målene viktige?
 
 Vi kan bruke pandas til å hente tallene fra csv-filen som vi har lagret dataene i og vi kan deretter bruke numpy til å regne ut ting som standardavvik, gjennomsnitt og median.
