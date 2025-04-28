@@ -8,7 +8,8 @@
 # Ignore data
 *data.csv
 
-
+# Ignore venv-file
+*venv/
 
 
 
