@@ -15,7 +15,9 @@ Med denne metoden kan enklere se om det er sammenheng mellom ting som nedbør og
 
 
 3. Hvordan planlegger du å håndtere eventuelle skjevheter i dataene under analysen, og hvilke metoder vil du bruke for å sikre at analysen er pålitelig?
-???
+
+For å håndtere eventuelle skjevheter mellom regresjonen og reelle tall kan vi prøve å endre regresjonen for å få en mer optimert regresjonsmodell og dermed få en mer nøyaktig prediktiv analyse.
+Dette gjør skjevheter til et viktig verktøy for senere forbedring og et nøkkeltall som kan brukes for å vurdere senere effekten av senere endringer.
 
 
 4. Hvilke visualiseringer vil du lage for å støtte analysen din, og hvordan vil disse visualiseringene hjelpe deg med å formidle funnene dine?
