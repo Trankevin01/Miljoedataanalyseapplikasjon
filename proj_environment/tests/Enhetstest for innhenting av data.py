@@ -6,18 +6,15 @@ import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__),'..', 'src')))
 from Var_data_henting import WeatherDataFetcher
 
-# filepath: c:\Users\Marti\Python\tdt4114\Miljoedataanalyseapplikasjon\proj_environment\src\test_Var_data_henting.py
-
-
 class TestWeatherDataFetcher(unittest.TestCase):
     def setUp(self):
-        # Initialize a WeatherDataFetcher instance (mocking API details)
+        # Inisialiser WeatherDataFetcher med tilfeldig API-detaljer
         self.fetcher = WeatherDataFetcher(client_id="dummy_id", 
                                           observations_endpoint="dummy_endpoint", 
                                           stations_endpoint="dummy_endpoint")
 
     def test_process_data(self):
-        # Mock input data
+        # test input data
         mock_data = {
             "temperature": [
                 {
@@ -40,17 +37,17 @@ class TestWeatherDataFetcher(unittest.TestCase):
             ]
         }
 
-        # Process the mock data
+        # prosesserer dataen
         result_df = self.fetcher.process_data(mock_data)
 
-        # Expected DataFrame structure
+        # Forventet DataFrame-struktur
         expected_columns = ["value", "unit", "quality", "referenceTime", "sourceId", "elementId"]
         self.assertListEqual(list(result_df.columns), expected_columns)
 
-        # Check the number of rows
+        # Forventet antall rader er 3 (2 temperatur + 1 nedbør)
         self.assertEqual(len(result_df), 3)
 
-        # Verify specific data points
+        # verifiser at verdiene er som forventet
         self.assertEqual(result_df.iloc[0]["value"], 15.2)
         self.assertEqual(result_df.iloc[0]["unit"], "Celsius")
         self.assertEqual(result_df.iloc[0]["elementId"], "temperature")
