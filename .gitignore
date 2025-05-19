@@ -3,7 +3,8 @@
 *test.py
 
 # Ignore API keys
-*API_Key_Manager_class.py
+*api_key_manager_class.py
+*var_data_henting_class.py
 
 # Ignore data
 *data.csv
