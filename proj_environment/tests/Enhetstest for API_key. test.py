@@ -4,7 +4,7 @@ import sys
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__),'..', 'src')))
 
-from API_Key_Manager_class import APIKeyManager
+from api_key_manager_class import APIKeyManager
 
 class TestAPIKeyManager(unittest.TestCase):
 

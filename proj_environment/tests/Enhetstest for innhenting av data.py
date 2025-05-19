@@ -4,7 +4,7 @@ import sys
 import os
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__),'..', 'src')))
-from Var_data_henting import WeatherDataFetcher
+from var_data_henting import WeatherDataFetcher
 
 class TestWeatherDataFetcher(unittest.TestCase):
     def setUp(self):
