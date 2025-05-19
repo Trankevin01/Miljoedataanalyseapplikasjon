@@ -7,7 +7,7 @@ I filen **Frost Datasett** henter vi data fra MET på ulike ting som:
 - Nedbør
 - Luftfuktighet
 
-Denne dataen visualiserer vi i grafer med ulike formater som passer til typen data vi visualiserer. Videre bruker vi regresjon til å kjøre en prediktiv analyse av datasettet og komme med en informert gjetning på hvordan været vil se ut de neste 14 dagene.
+Denne dataen visualiserer vi i grafer med ulike formater som passer til typen data vi visualiserer. Videre bruker vi regresjon til å kjøre en prediktiv analyse av datasettet og komme med en informert gjetning på hvordan været vil se ut de neste dagene.
 
 ## Valg av værstasjon
 
@@ -29,7 +29,9 @@ Vi lager et program som lar brukeren:
 
 1. Velge et sted i Norge.
 2. Se den historiske værdataen til dette stedet.
+3. Få se prediksjoner for fremtidig værdata
 
 Programmet henter informasjon fra den nærmeste værstasjonen til det valgte stedet og visualiserer dataene i grafer. Programmet viser også en beregning for hvordan framtidig vær kommer til å se ut. 
 
 All data er hentet fra MET, som er en offentlig kilde sponset av den norske stat.
+---
