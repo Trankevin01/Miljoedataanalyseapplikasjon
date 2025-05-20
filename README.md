@@ -29,9 +29,6 @@ Dette prosjektet analyserer og visualiserer miljødata (værdata) fra åpne kild
    ```sh
    pip install -r requirements.txt
    ```
-
-2. Start arbeidet i Jupyter Notebook eller kjør Python-skriptene fra [src/](proj_environment/src/).
-
 ## Bruk
 
 - Kjør notebookene i [notebooks/](proj_environment/notebooks/) for å hente, rense og analysere data.
