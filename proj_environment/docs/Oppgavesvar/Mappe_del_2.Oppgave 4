@@ -9,7 +9,8 @@ pandas. Disse dataene er viktig fordi vi enklere kan se trenden til tallene og d
 endrer seg over tid. Dette er hva som gjør at man ikke jobber på magefølelse, men heller jobber med konkrete tall.
 
 
-2. Kan du gi et eksempel på hvordan du vil implementere en enkel statistisk analyse for å undersøke sammenhengen mellom to variabler i datasettet?
+2. Kan du gi et eksempel på hvordan du vil implementere en enkel statistisk analyse for å undersøke sammenhengen mellom to variabler i 
+datasettet?
 
 Måten vi kan vise sammenhengen mellom to variabler med en statistisk analyse er knyttet opp mot numerisk derivasjon.
 Vi kan se på endringen i verdier mellom to tidspunkt for to ulike variabler og se om disse er proporsjonale eller omvendt proporsonale 
@@ -19,14 +20,16 @@ Med denne metoden kan enklere se om det er sammenheng mellom ting som nedbør og
 Det kan også hende at det ikke er noen sammenheng, men det vil vi kunne se i analysen.
 
 
-3. Hvordan planlegger du å håndtere eventuelle skjevheter i dataene under analysen, og hvilke metoder vil du bruke for å sikre at analysen er pålitelig?
+3. Hvordan planlegger du å håndtere eventuelle skjevheter i dataene under analysen, og hvilke metoder vil du bruke for å sikre at 
+analysen er pålitelig?
 
 For å håndtere eventuelle skjevheter mellom regresjonen og reelle tall kan vi prøve å endre regresjonen for å få en mer optimert 
 regresjonsmodell og dermed få en mer nøyaktig prediktiv analyse. Dette gjør skjevheter til et viktig verktøy for senere forbedring 
 og et nøkkeltall som kan brukes for å vurdere senere effekten av senere endringer.
 
 
-4. Hvilke visualiseringer vil du lage for å støtte analysen din, og hvordan vil disse visualiseringene hjelpe deg med å formidle funnene dine?
+4. Hvilke visualiseringer vil du lage for å støtte analysen din, og hvordan vil disse visualiseringene hjelpe deg med å formidle
+funnene dine?
 
 for å støtte analysen bruker vi ulike diagrammer som linjediagramm og punktdiagramm for å vise utviklingen av ting som temperatur og 
 vindhastighet.Dette gjør det lettere for en bruker å se utviklingen over tid og eventuelle endringer i klima ettersom tall blir 
