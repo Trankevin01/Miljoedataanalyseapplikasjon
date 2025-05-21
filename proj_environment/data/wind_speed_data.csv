@@ -1,10 +1,4 @@
 elementId,value,unit,timeOffset,referenceTime,sourceId
-mean(wind_speed P1D),3.8,m/s,PT0H,2018-05-17 00:00:00+00:00,SN90450:0
-mean(wind_speed P1D),4.3,m/s,PT0H,2018-05-18 00:00:00+00:00,SN90450:0
-mean(wind_speed P1D),6.0,m/s,PT0H,2018-05-19 00:00:00+00:00,SN90450:0
-mean(wind_speed P1D),6.7,m/s,PT0H,2018-05-20 00:00:00+00:00,SN90450:0
-mean(wind_speed P1D),3.9,m/s,PT0H,2018-05-21 00:00:00+00:00,SN90450:0
-mean(wind_speed P1D),4.1,m/s,PT0H,2018-05-22 00:00:00+00:00,SN90450:0
 mean(wind_speed P1D),2.5,m/s,PT0H,2018-05-23 00:00:00+00:00,SN90450:0
 mean(wind_speed P1D),4.9,m/s,PT0H,2018-05-24 00:00:00+00:00,SN90450:0
 mean(wind_speed P1D),4.9,m/s,PT0H,2018-05-25 00:00:00+00:00,SN90450:0
@@ -2554,3 +2548,9 @@ mean(wind_speed P1D),5.2,m/s,PT0H,2025-05-11 00:00:00+00:00,SN90450:0
 mean(wind_speed P1D),4.0,m/s,PT0H,2025-05-12 00:00:00+00:00,SN90450:0
 mean(wind_speed P1D),3.0,m/s,PT0H,2025-05-13 00:00:00+00:00,SN90450:0
 mean(wind_speed P1D),1.8,m/s,PT0H,2025-05-14 00:00:00+00:00,SN90450:0
+mean(wind_speed P1D),3.1,m/s,PT0H,2025-05-15 00:00:00+00:00,SN90450:0
+mean(wind_speed P1D),3.5,m/s,PT0H,2025-05-16 00:00:00+00:00,SN90450:0
+mean(wind_speed P1D),2.0,m/s,PT0H,2025-05-17 00:00:00+00:00,SN90450:0
+mean(wind_speed P1D),4.1,m/s,PT0H,2025-05-18 00:00:00+00:00,SN90450:0
+mean(wind_speed P1D),3.8,m/s,PT0H,2025-05-19 00:00:00+00:00,SN90450:0
+mean(wind_speed P1D),4.1,m/s,PT0H,2025-05-20 00:00:00+00:00,SN90450:0

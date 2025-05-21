@@ -1,10 +1,4 @@
 elementId,value,unit,timeOffset,referenceTime,sourceId
-mean(relative_humidity P1D),56.0,percent,PT0H,2018-05-17 00:00:00+00:00,SN90450:0
-mean(relative_humidity P1D),74.0,percent,PT0H,2018-05-18 00:00:00+00:00,SN90450:0
-mean(relative_humidity P1D),66.0,percent,PT0H,2018-05-19 00:00:00+00:00,SN90450:0
-mean(relative_humidity P1D),70.0,percent,PT0H,2018-05-20 00:00:00+00:00,SN90450:0
-mean(relative_humidity P1D),68.0,percent,PT0H,2018-05-21 00:00:00+00:00,SN90450:0
-mean(relative_humidity P1D),75.0,percent,PT0H,2018-05-22 00:00:00+00:00,SN90450:0
 mean(relative_humidity P1D),76.0,percent,PT0H,2018-05-23 00:00:00+00:00,SN90450:0
 mean(relative_humidity P1D),60.0,percent,PT0H,2018-05-24 00:00:00+00:00,SN90450:0
 mean(relative_humidity P1D),53.0,percent,PT0H,2018-05-25 00:00:00+00:00,SN90450:0
@@ -2554,3 +2548,9 @@ mean(relative_humidity P1D),59.0,percent,PT0H,2025-05-11 00:00:00+00:00,SN90450:
 mean(relative_humidity P1D),74.0,percent,PT0H,2025-05-12 00:00:00+00:00,SN90450:0
 mean(relative_humidity P1D),81.0,percent,PT0H,2025-05-13 00:00:00+00:00,SN90450:0
 mean(relative_humidity P1D),74.0,percent,PT0H,2025-05-14 00:00:00+00:00,SN90450:0
+mean(relative_humidity P1D),78.0,percent,PT0H,2025-05-15 00:00:00+00:00,SN90450:0
+mean(relative_humidity P1D),86.0,percent,PT0H,2025-05-16 00:00:00+00:00,SN90450:0
+mean(relative_humidity P1D),75.0,percent,PT0H,2025-05-17 00:00:00+00:00,SN90450:0
+mean(relative_humidity P1D),74.0,percent,PT0H,2025-05-18 00:00:00+00:00,SN90450:0
+mean(relative_humidity P1D),80.0,percent,PT0H,2025-05-19 00:00:00+00:00,SN90450:0
+mean(relative_humidity P1D),85.0,percent,PT0H,2025-05-20 00:00:00+00:00,SN90450:0
